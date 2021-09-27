@@ -10,4 +10,4 @@ namespace Full_GRASP_And_SOLID.Library
             Console.WriteLine(recipe.GetTextToPrint());
         }
     }
-}
+}// Clase que se encarga de imprimir la receta en la consola, y nada mas

@@ -10,4 +10,4 @@ namespace Full_GRASP_And_SOLID.Library
             File.WriteAllText("Recipe.txt", recipe.GetTextToPrint());
         }
     }
-}
+} // Clase que se encarga de imprimir la receta en un archivo de texto, y nada mas
